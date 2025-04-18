@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZ4NmxqZHdmNWdyMXdpdHFldDR2OHBnM2JkbjZnNXJzYXh0MWMxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tXyGLfWpv4pfIuONy6/giphy.gif" width="100"/>Welcome to a biologist's Github
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZ4NmxqZHdmNWdyMXdpdHFldDR2OHBnM2JkbjZnNXJzYXh0MWMxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tXyGLfWpv4pfIuONy6/giphy.gif" width="150"/>Welcome to a biologist's Github
 ![Banner de Brian Hincapie](Brian_Hincapie.png)
 I am a biologist specialized in pollinators and ecological data analysis. My work focuses on understanding plant–pollinator interactions, particularly involving native stingless bees, through field research, pollen identification, and statistical modeling.
 ## Skills
